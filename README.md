@@ -2,8 +2,6 @@
 
 ![Chitchatter logo](./public/logo/logo.svg)
 
-<sub>Logo provided by [@ramyashreeshetty](https://github.com/ramyashreeshetty)</sub>
-
 Chitchatter is a free (as in both price and freedom) communication tool. Designed to be the simplest way to connect with others privately and securely, it is:
 
 - Fully open source (licensed under [GPL v2](./LICENSE))
@@ -25,7 +23,7 @@ Chitchatter uses [Vite](https://vitejs.dev/). The secure networking and streamin
 
 ## How to use it
 
-Open https://chitchatter.im/ and join a room to start chatting with anyone else who is in the room. By default, room names are random [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)s that are generated client-side. To privately communicate with someone, it is recommended to join one of these randomly-generated rooms and share the URL (via the "🔗" button at the top of the page) to whomever you wish to communicate with via a secure medium of your choosing (such as [Burner Note](https://burnernote.com/) or [Yopass](https://yopass.se/)). Your user name will be presented to you, and it would be good to share that with who you will be chatting with beforehand so they know they're talking to you.
+Open https://tygrator.github.io/chitchatter/ and join a room to start chatting with anyone else who is in the room. By default, room names are random [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)s that are generated client-side. To privately communicate with someone, it is recommended to join one of these randomly-generated rooms and share the URL (via the "🔗" button at the top of the page) to whomever you wish to communicate with via a secure medium of your choosing (such as [Burner Note](https://burnernote.com/) or [Yopass](https://yopass.se/)). Your user name will be presented to you, and it would be good to share that with who you will be chatting with beforehand so they know they're talking to you.
 
 ## Features
 
